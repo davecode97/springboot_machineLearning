@@ -1,4 +1,4 @@
-# springboot_machineLearning
+# Machine Learning implemented on Spring Boot
 
 Artifacts: Spring Boot 2.7.6 + Thymeleaf 3.0.11.RELEASE & Java 11 Version.
 
